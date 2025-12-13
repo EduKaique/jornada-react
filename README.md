@@ -43,7 +43,7 @@ Como este é um monorepo (vários projetos em um só lugar), você deve entrar n
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/EduKaique/jornada-react.git](https://github.com/EduKaique/jornada-react.git)
+git clone https://github.com/EduKaique/jornada-react.git
 ```
 
 2. Entre na pasta do projeto desejado (exemplo):
