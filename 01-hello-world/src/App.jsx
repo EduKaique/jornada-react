@@ -1,15 +1,12 @@
-import './App.css'
-import Gallery from './components/Gallery'
-import { Profile } from './components/Gallery'
+import "./App.css";
+import TodoList from "./components/TodoList";
 
 function App() {
-
   return (
     <>
-      <Gallery />
-      <Profile />
+      <TodoList />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
