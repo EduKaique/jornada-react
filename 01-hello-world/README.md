@@ -8,3 +8,7 @@ O que eu aprendi?
 O que eu aprendi?
 - Exportação padrão e exportação nomeada
 - Importar compoenentes no arquivo raiz App.jsx
+
+#### Exerc 3 - Escrevendo Tags com JSX
+O que eu aprendi?
+- Entendo o que é JSX e como utilizar
