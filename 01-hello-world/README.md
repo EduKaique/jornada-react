@@ -11,4 +11,8 @@ O que eu aprendi?
 
 #### Exerc 3 - Escrevendo Tags com JSX
 O que eu aprendi?
-- Entendo o que é JSX e como utilizar
+- Entendendo o que é JSX e como utilizar
+
+#### Exerc 4 - JS entre chaves no JSX
+O que eu aprendi?
+- Entendendo como funciona o uso de { } e {{ }} no JSX
