@@ -24,3 +24,9 @@
 * Como especificar valores padrão para as props
 * Como passar JSX a um componente
 * Como as props mudam com o tempo
+
+### Exerc 6 - Renderização Condicional
+**O que eu aprendi?**
+* Como retornar diferentes JSX dependendendo de uma condição
+* Como incluir ou excluir condicionalmente um trecho de JSX
+* Atalhos de sintaxe condicional comuns que você encontrará em bases de código do React
